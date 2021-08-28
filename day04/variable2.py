@@ -17,6 +17,6 @@ height = 120.123
 hobby = "piano"
 
 print("이름 : %s" % name)
-print("이름 : %d" % age)
-print("이름 : %.3fcm" % height)
-print("이름 : %s" % hobby)
+print("나이 : %d" % age)
+print("키 : %.3fcm" % height)
+print("취미 : %s" % hobby)

@@ -15,7 +15,6 @@ print("data3 : {}\ndata4 : {}".format(data3, data4))
 print("data4 : %s" % data4)
 print("data4 : %c" % data4)
 # print("data6 : %c" % data6)
-
 print("data : %c" % 65)
 print("data : %c" % 66)
 print("data : %c" % 67)

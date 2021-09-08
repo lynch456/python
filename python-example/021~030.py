@@ -64,7 +64,7 @@ string = 'abcdfe2a354a32'
 string1 = string.replace('a', 'A')
 print(string1)
 
-# 아래 코드의 실행 결과를 예상해보세요.
+# 030 아래 코드의 실행 결과를 예상해보세요.
 # >> string = 'abcd'
 # >> string.replace('b', 'B')
 # >> print(string)
